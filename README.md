@@ -4,7 +4,7 @@ My name is SI SAID Wassim, am a 25 year old astrophysics ✨/fundamental physics
 
 🌍 currently based in France with an Algerian citizenship.
 
-get to know me more here : <a><img  align="left" alt="linkedin" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+get to know me more here : <a><img  alt="linkedin" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 
 ### Points of intrest 💫
 #### Academic/Scientific :
@@ -37,8 +37,10 @@ I have conducted data analysis of FENICS boards, Boards that are enduring qualit
 <img  align="left" alt="windows" width="26px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 <img align="left" alt="linux" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img  align="left" alt="unix" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" />
+
 &nbsp;
 &nbsp;
+
 #### Coding Languages 💾 :
 <img align="left" alt="python" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="java" width="26px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
