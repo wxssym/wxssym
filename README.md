@@ -16,3 +16,9 @@ I have conudcted data analysis of FENICS boards, Boards that are enduring qualit
 * Am looking currently for PhD. position to continue my research career👨‍🔬.
 
 * Am also looking for a position as a R&D position in public/private laboratories/companies to contribute with my knowledge beyound my personal projects.
+
+### Coding Languages 💾
+FORTRAN-90, Matlab, Python, JavaScript, TypeScript, C++, Java
+
+### Technologies/Frameworks 💾
+Solidworks, NodeJs, Django, MySQL, Pytorch, TensorJS, P5JS, React
