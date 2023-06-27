@@ -37,6 +37,7 @@ I have conducted data analysis of FENICS boards, Boards that are enduring qualit
 
 #### Technologies/Frameworks 💾 :
 <details>
+<summary>More</summary>
 <img align="left" alt="JupyterNotebook" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 <img align="left" alt="arduino" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
 <img align="left" alt="python" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
