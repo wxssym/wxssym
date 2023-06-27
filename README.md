@@ -34,10 +34,11 @@ I have conducted data analysis of FENICS boards, Boards that are enduring qualit
 
 ### Coding Skills 
 #### Operating systems 🖥 :
+<div aligh="center">
 <img  align="left" alt="windows" width="26px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 <img align="left" alt="linux" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img  align="left" alt="unix" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" />
-
+</div>
 &nbsp;
 &nbsp;
 
