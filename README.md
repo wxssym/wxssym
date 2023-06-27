@@ -32,47 +32,47 @@ I have conducted data analysis of FENICS boards, Boards that are enduring qualit
 * French `(Native)`, Algerian `(Native)`, English `(Fluent)`, Arabic `(Fluent)`, Amazigh `(Fluent)`, German `(Learning)`, Korean `(Learning)`
 
 ### Coding Languages 💾 :
-<img align="left" alt="python" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="java" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img  align="left" alt="javascript" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img  align="left" alt="typescript" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img align="left" alt="matlab" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
-<img  align="left" alt="php" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img  align="left" alt="C#" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img align="left" alt="Fortran90" width="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" />
-<img align="left" alt="c++" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="python" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="java" width="26px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img  align="left" alt="javascript" width="26px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img  align="left" alt="typescript" width="26px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="left" alt="matlab" width="26px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+<img  align="left" alt="php" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<img  align="left" alt="C#" width="26px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img align="left" alt="Fortran90" width="26px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" />
+<img align="left" alt="c++" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 
 
 ### Operating systems 💾 :
-<img  align="left" alt="windows" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-<img align="left" alt="linux" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img  align="left" alt="unix" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" />
+<img  align="left" alt="windows" width="26px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+<img align="left" alt="linux" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img  align="left" alt="unix" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" />
 
 <details>
 <summary>More</summary>
-<img align="left" alt="JupyterNotebook" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-<img align="left" alt="arduino" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+<img align="left" alt="JupyterNotebook" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+<img align="left" alt="arduino" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
 
-<img align="left" alt="nodejs" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="pytorch" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-<img align="left" alt="apache" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
-<img align="left" alt="wordpress" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
-<img  align="left" alt="SSH" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" />
-<img   align="left" alt="mysql" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img  align="left" alt="Markdowns" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
-<img  align="left" alt="css" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img  align="left" alt="html" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img  align="left" alt="photoshop" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-<img   align="left" alt="unity" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
-<img  align="left" alt="vscode" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img  align="left" alt="docker" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img  align="left" alt="filezilla" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />
-<img  align="left" alt="github" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img  align="left" alt="gitlab" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
-<img  align="left" alt="kaggle" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" />
-<img  align="left" alt="latex" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
-<img  align="left" alt="linkedin" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-<img align="left" alt="scketio" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" />
+<img align="left" alt="nodejs" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="pytorch" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+<img align="left" alt="apache" width="26px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
+<img align="left" alt="wordpress" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
+<img  align="left" alt="SSH" width="26px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" />
+<img   align="left" alt="mysql" width="26px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img  align="left" alt="Markdowns" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+<img  align="left" alt="css" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img  align="left" alt="html" width="26px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img  align="left" alt="photoshop" width="26px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+<img   align="left" alt="unity" width="26px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+<img  align="left" alt="vscode" width="26px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img  align="left" alt="docker" width="26px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img  align="left" alt="filezilla" width="26px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />
+<img  align="left" alt="github" width="26px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img  align="left" alt="gitlab" width="26px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
+<img  align="left" alt="kaggle" width="26px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" />
+<img  align="left" alt="latex" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
+<img  align="left" alt="linkedin" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+<img align="left" alt="scketio" width="26px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" />
 
 </details>
 
