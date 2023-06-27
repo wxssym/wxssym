@@ -10,6 +10,6 @@ I have conudcted data analysis of FENICS boards, Boards that are enduring qualit
 
 ### What am curretly looking for 🔍
 
-Am looking currently for PhD. position to continue my research career👨‍🔬.
+* Am looking currently for PhD. position to continue my research career👨‍🔬.
 
-Am also looking for a position as a R&D position in public/private laboratories/companies to contribute with my knowledge beyound my personal projects.
+* Am also looking for a position as a R&D position in public/private laboratories/companies to contribute with my knowledge beyound my personal projects.
