@@ -16,6 +16,13 @@ I have conudcted data analysis of FENICS boards, Boards that are enduring qualit
 * Music : Electric/Acoustic guitar, Oud/Luth, Piano, Violin, Mandoline, Mandole, Bass, Banjo.
 * Digital drawing, Digital Photography
 
+### My expertise
+* Machine learning and data analysis for scientific usage and personal usage.
+* Cosmology, Astronphysics, Astronomy notions.
+* ATLAS experiement electronics, and particles physics notions.
+* Read, use and understand X-ray observatories catalogs data.
+* SOlid conprehension of SPH simulations in cosmology.
+
 ### What am currently looking for 🔍
 
 * Am looking currently for PhD. position to continue my research career👨‍🔬.
