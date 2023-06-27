@@ -44,6 +44,7 @@ I have conducted data analysis of FENICS boards, Boards that are enduring qualit
 <img align="left" alt="nodejs" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="pytorch" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
 <img align="left" alt="c++" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="Fortran90" width="30px" style="padding-right:10px" src="https://fr.wikipedia.org/wiki/Fortran#/media/Fichier:Fortran_logo.svg" />
 </details>
 
 
