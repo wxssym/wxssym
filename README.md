@@ -5,18 +5,18 @@ My name is SI SAID Wassim, am a 25 year old astrophysics ✨/fundamental physics
 🌍 currently based in France with an Algerian citizenship.
 
 
-### Points of intrest
+### Points of intrest 💫
 #### Academic/Scientific :
 Am interested in many aspects of Astrophysics ✨, as cosmology, galaxies, X-ray astronomy and Active Galactic Nuclei. I have done multipel internships in astrophysics such as searching for AGN condidates in CLoGS sample, and investigating protoclusters at cosmic noon in SPH cosmology simulations such as BAHAMAS/MACSIS at the Observatory of Paris.
 
 I have conudcted data analysis of FENICS boards, Boards that are enduring quality tests to ensure their reliability at deployment on ATLAS experiement for the ATLAS High luminosity upgrade. I developed a Python library that collect, format, and analyse the data with a custom vizualisation filtring tool using HTML and JavaScript to monitor FENICS behaviours.
 
 #### Hobby/Non academic :
-* Front/Backend Web developpement, Video games developpement, Web based applications.
-* Music : Electric/Acoustic guitar, Oud/Luth, Piano, Violin, Mandoline, Mandole, Bass, Banjo.
-* Digital drawing, Digital Photography
+* 🌐 Front/Backend Web developpement, Video games developpement, Web based applications .
+* 🎵 Music : Electric/Acoustic guitar, Oud/Luth, Piano, Violin, Mandoline, Mandole, Bass, Banjo.
+* 🎨 Digital drawing, 📸 Digital Photography
 
-### My expertise
+### My expertise 🧠
 * Machine learning and data analysis for scientific usage and personal usage.
 * Cosmology, Astronphysics, Astronomy notions.
 * ATLAS experiement electronics, and particles physics notions.
@@ -26,7 +26,6 @@ I have conudcted data analysis of FENICS boards, Boards that are enduring qualit
 ### What am currently looking for 🔍
 
 * Am looking currently for PhD. position to continue my research career👨‍🔬.
-
 * Am also looking for a position as a R&D position in public/private laboratories/companies to contribute with my knowledge beyound my personal projects.
 
 ### Languages
