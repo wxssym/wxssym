@@ -37,7 +37,8 @@ I have conducted data analysis of FENICS boards, Boards that are enduring qualit
 <img  align="left" alt="windows" width="26px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 <img align="left" alt="linux" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img  align="left" alt="unix" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" />
-
+&nbsp;
+&nbsp;
 #### Coding Languages 💾 :
 <img align="left" alt="python" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="java" width="26px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -68,20 +69,18 @@ I have conducted data analysis of FENICS boards, Boards that are enduring qualit
 &nbsp;
 
 
-
-
-
 #### Data analysis and machine learning :
 <img align="left" alt="JupyterNotebook" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 <img align="left" alt="pytorch" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
 <img  align="left" alt="kaggle" width="26px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" />
 
 
-
+&nbsp;
+&nbsp;
 
 
 <details>
-<summary>:</summary>
+<summary>more</summary>
 <h4>Other tools 💾 :</h4> 
 <img  align="left" alt="Markdowns" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
 <img  align="left" alt="vscode" width="26px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
@@ -91,10 +90,4 @@ I have conducted data analysis of FENICS boards, Boards that are enduring qualit
 <img  align="left" alt="docker" width="26px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img  align="left" alt="filezilla" width="26px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />
 <img  align="left" alt="SSH" width="26px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" />
-
-
 </details>
-
-
-          
-* Solidworks, NodeJs, Django, MySQL, Pytorch, TensorJS, P5JS, React
