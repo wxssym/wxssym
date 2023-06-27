@@ -32,10 +32,10 @@ I have conducted data analysis of FENICS boards, Boards that are enduring qualit
 
 ### Languages
 #### Spoken languages 😋 :
-> French (Native), Algerian (Native), English (Fluent), Arabic (Fluent), Amazigh (Fluent), German (Learning), Korean (Learning)
+* French `(Native)`, Algerian `(Native)`, English `(Fluent)`, Arabic `(Fluent)`, Amazigh `(Fluent)`, German `(Learning)`, Korean `(Learning)`
 
 #### Coding Languages 💾 :
-> FORTRAN-90, Matlab, Python, JavaScript, TypeScript, C++, Java
+* FORTRAN-90, Matlab, Python, JavaScript, TypeScript, C++, Java
 
 #### Technologies/Frameworks 💾 :
-> Solidworks, NodeJs, Django, MySQL, Pytorch, TensorJS, P5JS, React
+* Solidworks, NodeJs, Django, MySQL, Pytorch, TensorJS, P5JS, React
