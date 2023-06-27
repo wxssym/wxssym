@@ -19,7 +19,7 @@ I have conudcted data analysis of FENICS boards, Boards that are enduring qualit
 
 ### Languages
 #### Spoken languages 😋
-French (Native), Algerian (Native), English (Fluent), Arabic (Fluent), Amazigh (Fluent)
+French (Native), Algerian (Native), English (Fluent), Arabic (Fluent), Amazigh (Fluent), German (Learning), Korean (Learning)
 
 #### Coding Languages 💾
 FORTRAN-90, Matlab, Python, JavaScript, TypeScript, C++, Java
