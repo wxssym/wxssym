@@ -36,6 +36,6 @@ I have conducted data analysis of FENICS boards, Boards that are enduring qualit
 * FORTRAN-90, Matlab, Python, JavaScript, TypeScript, C++, Java
 
 #### Technologies/Frameworks 💾 :
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+<img width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 
 * Solidworks, NodeJs, Django, MySQL, Pytorch, TensorJS, P5JS, React
