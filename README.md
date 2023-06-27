@@ -21,7 +21,7 @@ I have conudcted data analysis of FENICS boards, Boards that are enduring qualit
 * Cosmology, Astronphysics, Astronomy notions.
 * ATLAS experiement electronics, and particles physics notions.
 * Read, use and understand X-ray observatories catalogs data.
-* SOlid conprehension of SPH simulations in cosmology.
+* Solid comprehension of SPH simulations in cosmology.
 
 ### What am currently looking for 🔍
 
