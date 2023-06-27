@@ -41,7 +41,7 @@ I have conducted data analysis of FENICS boards, Boards that are enduring qualit
 <img  align="left" alt="C#" width="26px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="Fortran90" width="26px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" />
 <img align="left" alt="c++" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-//
+\\
 
 ### Operating systems 💾 :
 <img  align="left" alt="windows" width="26px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
