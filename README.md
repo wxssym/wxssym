@@ -4,7 +4,7 @@ My name is SI SAID Wassim, am a 25 year old astrophysics ✨/fundamental physics
 
 🌍 currently based in France with an Algerian citizenship.
 
-get to know me more here : <a src="https://www.linkedin.com/in/wasisaid/"><img  alt="linkedin" width="18px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+get to know me more here : <a href="https://www.linkedin.com/in/wasisaid/"><img  alt="linkedin" width="18px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 
 ### Points of intrest 💫
 #### Academic/Scientific :
