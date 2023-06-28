@@ -10,9 +10,11 @@ My name is SI SAID Wassim, am a 25 year old astrophysics ✨/fundamental physics
 #### Academic/Scientific :
 Am interested in many aspects of Astrophysics ✨, as cosmology, galaxies, X-ray astronomy and Active Galactic Nuclei. I have done multipel internships in astrophysics such as searching for AGN condidates in CLoGS sample, and investigating protoclusters at cosmic noon in SPH cosmology simulations such as BAHAMAS/MACSIS at the Observatory of Paris.
 
-![Static Badge](https://img.shields.io/badge/Extragalactic_astrophysics-blue) ![Static Badge](https://img.shields.io/badge/Galaxies_formation_and_evolution-blue) ![Static Badge](https://img.shields.io/badge/Galaxy_clusters-blue) ![Static Badge](https://img.shields.io/badge/X%-ray_astrophysics-blue)
+![Static Badge](https://img.shields.io/badge/Extragalactic_astrophysics-blue) ![Static Badge](https://img.shields.io/badge/Galaxies_formation_and_evolution-blue) ![Static Badge](https://img.shields.io/badge/Galaxy_clusters-blue) ![Static Badge](https://img.shields.io/badge/X--ray_astrophysics-blue) ![High Energy astrophysics](https://img.shields.io/badge/Galaxy_formation_and_evolution-blue)
 
 I have conducted data analysis of FENICS boards, Boards that are enduring quality tests to ensure their reliability at deployment on ATLAS experiement for the ATLAS High luminosity upgrade. I developed a Python library that collect, format, and analyse the data with a custom vizualisation filtring tool using HTML and JavaScript to monitor FENICS behaviours.
+
+![Static Badge](https://img.shields.io/badge/ATLAS_experiement-blue) ![Static Badge](https://img.shields.io/badge/Large_Hadronic_Collider-blue) ![Static Badge](https://img.shields.io/badge/Particle_physics-blue) ![Static Badge](https://img.shields.io/badge/Accelerators_physics-blue)
 
 #### Hobby/Non academic :
 * 🌐 Front/Backend Web developpement, Video games developpement, Web based applications .
