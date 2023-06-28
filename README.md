@@ -14,7 +14,7 @@ Am interested in many aspects of Astrophysics ✨, as cosmology, galaxies, X-ray
 
 I have conducted data analysis of FENICS boards, Boards that are enduring quality tests to ensure their reliability at deployment on ATLAS experiement for the ATLAS High luminosity upgrade. I developed a Python library that collect, format, and analyse the data with a custom vizualisation filtring tool using HTML and JavaScript to monitor FENICS behaviours.
 
-![Static Badge](https://img.shields.io/badge/ATLAS_experiement-blue) ![Static Badge](https://img.shields.io/badge/Large_Hadronic_Collider-blue) ![Static Badge](https://img.shields.io/badge/Particle_physics-blue) ![Static Badge](https://img.shields.io/badge/Accelerators_physics-blue)
+![Static Badge](https://img.shields.io/badge/ATLAS_experiment-blue) ![Static Badge](https://img.shields.io/badge/Large_Hadronic_Collider-blue) ![Static Badge](https://img.shields.io/badge/Particle_physics-blue) ![Static Badge](https://img.shields.io/badge/Accelerators_physics-blue)
 
 #### Hobby/Non academic :
 * 🌐 Front/Backend Web developpement, Video games developpement, Web based applications .
