@@ -28,7 +28,7 @@ I have conducted data analysis of FENICS boards, Boards that are enduring qualit
 * Read, use and understand X-ray observatories catalogs data.
 * Solid comprehension of SPH simulations in cosmology.
 
-![Static Badge](https://img.shields.io/badge/Chandra--x-202a43_user-grey) ![Static Badge](https://img.shields.io/badge/XMM--Newton-643c44_user-grey)
+![Static Badge](https://img.shields.io/badge/Chandra--X-User-blue?labelColor=202a43&color=grey) ![Static Badge](https://img.shields.io/badge/XMM--Newton-User-blue?labelColor=643c44&color=grey) ![Static Badge](https://img.shields.io/badge/FIRST--VLA-User-blue?labelColor=003366&color=grey) ![Static Badge](https://img.shields.io/badge/AllWISE-User-blue?labelColor=f80022&color=grey)
 
 ### What am currently looking for 🔍
 
