@@ -108,5 +108,4 @@ I have conducted data analysis of FENICS boards, Boards that are enduring qualit
 <img  align="left" alt="SSH" width="26px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" />
 </details>
 
- <a href='http://www.freevisitorcounters.com'>here</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=9c44f1262c7718402d96ddc66dfaa70f192f4159'></script>
-<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1060696/t/3"></script>
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fwxssym&label=%20&countColor=%23263759)
