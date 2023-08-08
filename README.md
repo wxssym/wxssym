@@ -108,4 +108,4 @@ I have conducted data analysis of FENICS boards, Boards that are enduring qualit
 <img  align="left" alt="SSH" width="26px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" />
 </details>
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fwxssym&label=%20&countColor=%23263759)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fwxssym&label=%20visitors&labelColor=%23d9e3f0&countColor=%23d9e3f0&style=flat)
