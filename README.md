@@ -1,6 +1,6 @@
 ### About me ✨
 
-My name is SI SAID Wassim, am a 25 year old astrophysics ✨/fundamental physics student 👨‍🎓 with two masters degree, ongoing a PhD at Laboratoire Leprince-Ringuet on H.E.S.S telescope.
+My name is SI SAID Wassim, am a 26 year old astrophysics ✨/fundamental physics student 👨‍🎓 with two masters degree, ongoing a PhD at Laboratoire Leprince-Ringuet on H.E.S.S telescope.
 
 🌍 currently based in France with an Algerian citizenship.
 
